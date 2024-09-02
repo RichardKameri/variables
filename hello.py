@@ -1,7 +1,6 @@
-welcome to zindua school
-print('welcome to zindua')
+# print('welcome to zindua')
 
-message = 'welcome to zindua')
+# message = 'welcome to zindua'
 
 num1 = 5
 num2 = 5
